@@ -1,7 +1,7 @@
 
-<h3>Hello All 💣</h3>
-<p><sup>ah yes I am Tom the Bomb</sup></p>
-<hr>
+<h2>Hello All 💣</h2>
+<p><sup>ah yes I am Tom the Bomb indeed</sup></p>
+
 <h4>Skills</h4>
 <ul>
   <li>Python (Fluent)</li>
