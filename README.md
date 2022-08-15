@@ -13,8 +13,8 @@
   <li>MongoDB, some SQLite</li>
 </ul>
 <h4>Stats</h4>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-the-Bomb" alt="lanuage stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Tom-the-Bomb&show_icons=true&theme=radical" alt="language stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-the-Bomb&theme=radical" alt="lanuage stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Tom-the-Bomb&show_icons=true&theme=radical&count_private=true" alt="language stats">
 <br><hr>
 <ul>
   <li><a href="https://discord.com/users/522524473447153695">Yes, discord</li>
