@@ -5,8 +5,8 @@
 <h4>Skills</h4>
 <ul>
   <li>Python (Fluent)</li>
+  <li>Rust (decent amount, currently using the most)</li>
   <li>Javascript (decent amount)</li>
-  <li>Rust (some, currently improving)</li>
   <li>Go, C++ (minimal)</li>
   <h5>Other:</h5>
   <li>HTML + CSS</li>
