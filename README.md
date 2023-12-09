@@ -17,6 +17,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Tom-the-Bomb&show_icons=true&theme=radical&count_private=true" alt="language stats">
 <br><hr>
 <ul>
-  <li><a href="https://discord.com/users/522524473447153695">Yes, discord</li>
-  <li><a href="https://tomthebomb.dev">Hello there.</li>
+  <li>
+    <h2>:fire: <a href="https://discord.com/users/522524473447153695">LeetCode</a></h2>
+  </li>
+  <li>
+    <a href="https://discord.com/users/522524473447153695">Yes, discord</a>
+  </li>
+  <li>
+    <a href="https://tomthebomb.dev">Hello there.</a>
+  </li>
 <ul>
