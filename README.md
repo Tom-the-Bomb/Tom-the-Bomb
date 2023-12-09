@@ -18,7 +18,7 @@
 <br><hr>
 <ul>
   <li>
-    <h2>:fire: <a href="https://discord.com/users/522524473447153695">LeetCode</a></h2>
+    <h2>:fire: <a href="https://leetcode.com/Tom-the-Bomb">LeetCode</a></h2>
   </li>
   <li>
     <a href="https://discord.com/users/522524473447153695">Yes, discord</a>
