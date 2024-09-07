@@ -1,5 +1,5 @@
 
-<h2>Hello All :bomb:</h2>
+<h2>Hello All 💣</h2>
 <p><sup>hi yes I am Tom the Bomb indeed</sup></p>
 
 <h4>Skills</h4>
@@ -27,7 +27,13 @@
 <br><hr>
 <ul>
   <li>
-    <h2>:fire: <a href="https://leetcode.com/Tom-the-Bomb">LeetCode</a></h2>
+    <h2>🔥 <a href="https://leetcode.com/Tom-the-Bomb">LeetCode</a></h2>
+  </li>
+  <li>
+    <a href="https://pypi.org/user/Tom-the-Bomb/">PyPI</a>
+  </li>
+  <li>
+    <a href="https://crates.io/users/Tom-the-Bomb">Crates.io</a> 
   </li>
   <li>
     <a href="https://discord.com/users/522524473447153695">Discord</a>
