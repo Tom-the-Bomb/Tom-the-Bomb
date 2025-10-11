@@ -17,7 +17,7 @@
   <img align="center" src="https://skillicons.dev/icons?i=python,java,rust,ts,html,css,astro,p5js,wasm,bootstrap,tailwind,mongodb,react,flask"/>
 </div><br>
 <p align="center">
-  Hi there! :wave: I'm a computer engineering student at the University of Waterloo who's passionate about photography, image processing, mathematics, and improving my coding skills through leetcoding and building impactful applications that revolve around my interests.
+  Hi there! :wave: I'm a computer engineering student at the University of Waterloo who is passionate about photography, image processing, mathematics, and improving my coding skills through leetcoding and building impactful applications that revolve around my interests.
 </p>
 <h3>Languages</h3>
 <ul>
