@@ -41,7 +41,7 @@
     src="https://github-readme-stats.vercel.app/api?username=Tom-the-Bomb&bg_color=00000000&theme=radical&include_all_commits=true&rank_icon=percentile&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true"
     alt="Profile Stats"
   /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-the-Bomb&layout=pie&langs_count=10&bg_color=00000000&theme=radical&hide_border=true">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-the-Bomb&layout=pie&langs_count=10&bg_color=0&theme=radical&hide_border=true">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-the-Bomb&layout=pie&langs_count=10&bg_color=00000000&theme=radical&hide_border=true" alt="language stats"/></a>
 <hr>
 <h2>🎄 Advent of Code 🎄</h2>
