@@ -26,7 +26,7 @@
   <li>Rust (Experienced)</li>
   <li>Javascript + Typescript (Experienced)</li>
   <li>Java (Experienced)</li>
-  <li>C++ (Experienced)</li>
+  <li>C++ (Intermediate)</li>
   <li>Go (minimal)</li>
 </ul>
 <h3>Technologies</h3>
