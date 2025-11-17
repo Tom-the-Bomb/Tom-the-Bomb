@@ -25,7 +25,8 @@
   <li>HTML + CSS (Experienced)</li>
   <li>Rust (Experienced)</li>
   <li>Javascript + Typescript (Experienced)</li>
-  <li>Java, C++ (Experienced)</li>
+  <li>Java (Experienced)</li>
+  <li>C++ (Experienced)</li>
   <li>Go (minimal)</li>
 </ul>
 <h3>Technologies</h3>
