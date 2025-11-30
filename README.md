@@ -47,7 +47,7 @@
 <hr>
 <h2>🎄 Advent of Code 🎄</h2>
 <p>
-  Advent of Code Solutions in Rust & Python: <a href="https://github.com/Tom-the-Bomb/aoc-2024">2024</a> | <a href="https://github.com/Tom-the-Bomb/aoc-2023">2023</a>
+  Advent of Code Solutions in Rust & Python: <a href="https://github.com/Tom-the-Bomb/aoc-2025">2025</a> | <a href="https://github.com/Tom-the-Bomb/aoc-2024">2024</a> | <a href="https://github.com/Tom-the-Bomb/aoc-2023">2023</a>
 </p>
 <h2>Quick Links</h2>
 <ul>
