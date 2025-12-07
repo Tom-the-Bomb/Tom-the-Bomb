@@ -58,7 +58,7 @@
     <br>
     <div>
       <a href="https://github.com/Tom-the-Bomb/tomthebomb.dev/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tom-the-Bomb&repo=tomthebomb.dev&theme=radical&bg_color=00000000"/>
+        <img src="https://github-readme-stats-lyart-three-11.vercel.app/api/pin/?username=Tom-the-Bomb&repo=tomthebomb.dev&theme=radical&bg_color=00000000"/>
       </a>
     </div>
   </li>
