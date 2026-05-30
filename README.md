@@ -27,13 +27,13 @@
   <li>Javascript + Typescript (Experienced)</li>
   <li>Java (Experienced)</li>
   <li>C++ (Intermediate)</li>
-  <li>Go (minimal)</li>
+  <li>Go (Intermediate)</li>
 </ul>
 <h3>Technologies</h3>
 <ul>
-  <li><b>Web Frameworks:</b> React.js, Node.js, Astro</li>
+  <li><b>Web Frameworks:</b> React.js, Next.js, Node.js, Astro</li>
   <li><b>CSS Frameworks:</b> Bootstrap, Tailwind CSS</li>
-  <li><b>Data Management:</b> MongoDB & some SQLite</li>
+  <li><b>Data Management:</b> MongoDB & SQLite</li>
 </ul>
 <h3>Profile Stats</h3>
 <a href="https://github-readme-stats-lyart-three-11.vercel.app/api?username=Tom-the-Bomb&bg_color=00000000&theme=radical&include_all_commits=true&rank_icon=percentile&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true">
