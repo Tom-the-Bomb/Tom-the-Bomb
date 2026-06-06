@@ -14,7 +14,7 @@
   </div>
   <h1 align="center">Tom the Bomb💣</h1>
   
-  <img align="center" src="https://skillicons.dev/icons?i=rust,html,css,ts,cpp,wasm,astro,p5js,go,python,java,d3,tailwind,mongodb,react,next,flask,cloudflare&perline=9"/>
+  <img align="center" src="https://skillicons.dev/icons?i=rust,html,css,ts,cpp,wasm,astro,p5js,go,docker,python,java,d3,tailwind,mongodb,react,next,flask,cloudflare,redis&perline=10"/>
 </div><br>
 <p align="center">
   Hi there! :wave: I'm a computer engineering student at the University of Waterloo who is passionate about photography, image processing, mathematics, and improving my coding skills through leetcoding and building impactful applications that revolve around my interests.
