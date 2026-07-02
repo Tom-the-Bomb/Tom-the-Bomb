@@ -12,7 +12,7 @@
     <a href="https://linkedin.com/in/tommyshen">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   </div>
-  <h1 align="center">Tom the Bomb💣</h1>
+  <h1 align="center">Tom the Bomb 💣</h1>
   
   <img align="center" src="https://skillicons.dev/icons?i=rust,html,css,ts,cpp,wasm,astro,p5js,go,docker,python,java,d3,tailwind,mongodb,react,next,flask,cloudflare,redis&perline=10"/>
 </div><br>
