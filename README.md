@@ -43,7 +43,7 @@
     alt="Profile Stats"
   /></a>
 <a href="https://github-readme-stats-lyart-three-11.vercel.app/api/top-langs/?username=Tom-the-Bomb&layout=pie&langs_count=14&bg_color=00000000&theme=radical&hide_border=true&cachearg=2">
-  <img align="top" src="https://github-readme-stats-lyart-three-11.vercel.app/api/top-langs/?username=Tom-the-Bomb&layout=pie&langs_count=14&bg_color=00000000&theme=radical&hide_border=true&cachearg=2" alt="language stats"/></a>
+  <img align="top" src="https://github-readme-stats-lyart-three-11.vercel.app/api/top-langs/?username=Tom-the-Bomb&layout=pie&langs_count=14&bg_color=00000000&theme=radical&hide_border=true&exclude_repo=viggle-fight-test" alt="language stats"/></a>
 <hr>
 <h2>🎄 Advent of Code 🎄</h2>
 <p>
